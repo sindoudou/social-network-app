@@ -103,10 +103,3 @@ with a pre-defined list of users.
 
 ● Provide instructions on how to run the application.
 
-IMPORTANT: Focus on writing the best code you can produce. Do not rush. Take as much time as you 
-
-need; there is no deadline.
-
-Code Submission
-
-Push the code to your own GitHub account, as a public project, and send us the link.
